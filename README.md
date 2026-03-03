@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BAP7478
 - 👀 I’m interested in AIRTIFICIAL INTELIGENCE 
-- 🌱 I’m currently learning PYTHON 
 - 💞️ I’m looking to collaborate on AI 
 - 📫 How to reach me bhargavparmar7478@gmail.com
 - 😄 Pronouns: ...
